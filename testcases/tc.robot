@@ -6,7 +6,7 @@ Library  SeleniumLibrary
 
 
 *** Variables ***
-${Browser}  Chrome
+${Browser}  Firefox
 ${URL}  https://www.amazon.in/
 
 *** Test Cases ***
